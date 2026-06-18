@@ -1,0 +1,11 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+SUNNY
+CLOUDY
+RAINING
+OVERCAST
+CLR ES COLD
+HOT ES HUMID
+SNOWING
+WINDY
+FOGGY

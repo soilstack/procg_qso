@@ -1,0 +1,7 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+5W
+10W
+50W
+100W
+QRP 5W

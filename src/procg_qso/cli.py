@@ -28,21 +28,21 @@ def estimate_duration(turns, stations, turn_gap_s=(0.8, 2.0)) -> float:
     return total
 
 
-def make_turns(style: str, seed: int, wordiness: float):
+def make_turns(style: str, seed: int, wordiness: float, corpus_tail: int = 0):
     rng = random.Random(seed)
     if style == "wordy":
-        return wordy_ragchew(rng, wordiness=wordiness)
+        return wordy_ragchew(rng, wordiness=wordiness, corpus_tail=corpus_tail)
     return STYLES[style](rng)
 
 
 def find_seed_for_minutes(style, wordiness, stations, minutes, seed0,
-                          tries=200, tol_s=10.0):
+                          corpus_tail=0, tries=200, tol_s=10.0):
     """Search seeds for a QSO whose estimated length is near the target."""
     target = minutes * 60.0
     best = None
     for i in range(tries):
         seed = seed0 + i
-        turns = make_turns(style, seed, wordiness)
+        turns = make_turns(style, seed, wordiness, corpus_tail)
         err = abs(estimate_duration(turns, stations) - target)
         if best is None or err < best[1]:
             best = (seed, err, turns)
@@ -85,12 +85,13 @@ def cmd_qso(args):
     seed = args.seed if args.seed is not None else random.randrange(1 << 30)
     if args.minutes:
         seed, turns, err = find_seed_for_minutes(
-            args.style, args.wordiness, stations, args.minutes, seed)
+            args.style, args.wordiness, stations, args.minutes, seed,
+            args.corpus_tail)
         if err > 30:
             print(f"warning: closest fit is {err:.0f} s off target; "
                   f"adjust --wordiness or --style", file=sys.stderr)
     else:
-        turns = make_turns(args.style, seed, args.wordiness)
+        turns = make_turns(args.style, seed, args.wordiness, args.corpus_tail)
     ch = channel_for_difficulty(args.difficulty, fs=args.fs)
     audio, truth = synthesize_qso(turns, stations, ch, seed=seed)
     name = args.output or (f"qso_{args.style}_w{args.wpm:g}"
@@ -129,6 +130,8 @@ def main():
                         help="band conditions 0-10 (0 = dead quiet)")
         sp.add_argument("--style", choices=list(STYLES), default="wordy")
         sp.add_argument("--wordiness", type=float, default=0.7)
+        sp.add_argument("--corpus-tail", type=int, default=0,
+                        help="append N plain corpus sentences after the QSO")
         sp.add_argument("--minutes", type=float, default=0,
                         help="target length; searches seeds to fit")
         sp.add_argument("--pitch", type=float, default=600)

@@ -1,0 +1,816 @@
+Instead, the oscillations must be of constant amplitude and continuous.
+A later improvement for setting up sustained oscillations was the authors rotating oscillation arc.
+A few years ahead of these amateurs, that is to say in 1905, J.
+Then its use became general and workers everywhere sought to, and did improve it.
+And so they, too, became enthusiastic wireless amateurs.
+This is the wireless, or radio, as the average amateur knows it today.
+But it is by no means the limit of its possibilities.
+On the contrary, we are just beginning to realize what it may mean to the human race.
+The Government is now utilizing it to send out weather, crop and market reports.
+Foreign trade conditions are being reported.
+The Naval Observatory at Arlington is wirelessing time signals.
+Department stores are beginning to issue programs and advertise by radio.
+Cities are also taking up such programs, and they will doubtless be included soon among the regular privileges of the tax payers.
+Politicians address their constituents.
+Preachers reach the stay at homes.
+Great singers thrill thousands instead of hundreds.
+Soon it will be possible to hear the finest musical programs, entertainers, and orators, without budging from ones easy chair.
+In the World War wireless proved of inestimable value.
+Airplanes, instead of flying aimlessly, kept in constant touch with headquarters.
+Bodies of troops moved alertly and intelligently.
+Ships at sea talked freely, over hundreds of miles.
+Everywhere its invisible aid was invoked.
+In time of peace, however, it has proved and will prove the greatest servant of mankind.
+Wireless messages now go daily from continent to continent, and soon will go around the world with the same facility.
+Ships in distress at sea can summon aid.
+Vessels everywhere get the days news, even to baseball scores.
+Daily new tasks are being assigned this tireless, wireless messenger.
+Messages have been sent and received by moving trains, the Lackawanna and the Rock Island railroads being pioneers in this field.
+Messages have also been received by automobiles, and one inventor has successfully demonstrated a motor car controlled entirely by wireless.
+This method of communication is being employed more and more by newspapers.
+It is also of great service in reporting forest fires.
+One receiver depicted in a newspaper was one inch square.
+Daily new novelties and marvels are announced.
+Meanwhile, the radio amateur to whom this book is addressed may have his share in the joys of wireless.
+And how, you may ask, are you going to be able to know the good from the indifferent and bad sets?
+By buying a make of a firm with an established reputation.
+I have given a few offhand at the end of this book.
+In other words, the same difference exists between them in this respect as between the Morse telegraph and the Bell telephone.
+The aerial wire is precisely the same for either wireless telegraphy or wireless telephony.
+The easiest way to begin wireless, then, is to put up an aerial and hook up a receiving set to it.
+A crystal detector can be used with or without a battery while the vacuum tube detector requires two small batteries.
+Where a single coil tuner is used a fixed condenser should be connected around the telephone receivers.
+The telephone receiver of a receiving set is equally as important as the detector.
+A single receiver can be used but a pair of receivers connected with a head band gives far better results.
+In its simplest form this consists of a metal cone like a megaphone to which is fitted a telephone receiver.
+Second.New York City Third.Baltimore, Md.
+Amateurs generally use a jump spark for sending wireless telegraph messages and the vacuum tube for sending wireless telephone messages.
+A simple transmitting set with an induction coil is shown in Fig 2.
+The quenched gap is more efficient than either the plain or rotary gap and moreover it is noiseless.
+The glass plate condensers are the cheapest and will serve your purpose well, especially if they are immersed in oil.
+Tuning coils, sometimes called transmitting inductances and oscillation transformers, are of various types.
+An oscillation transformer instead of a tuning coil, is required by government regulations unless inductively coupled.
+This kind of a transmitter sets up sustained oscillations instead of periodic oscillations which are produced by a spark gap set.
+The advantages of this kind of a system will be found explained in Chapter XVI.
+An electric arc or a vacuum tube sets up sustained oscillations, that is, oscillations which are continuous.
+The apparatus required and the connections used for wireless telephone sets will be described in later chapters.
+For example, the first table gives abbreviations of electrical terms which are in general use in all works dealing with the subject.
+In the country you can stretch your wires between the house and barn or the windmill.
+A Single Wire Aerial. This is the simplest and cheapest kind of a receiving aerial that can be put up.
+You can use any size of copper or aluminum wire that is not smaller than No 16 Brown and Sharpe gauge.
+Run a wire from the top post through the leading in insulator and connect it with the slider of your tuning coil.
+Twist the short wire around the long wire and solder this joint also when the aerial will look like Fig 7.
+This makes a good sending aerial for small sets as well as a good receiving aerial.
+They should be 2 1/4 inches in diameter at the middle and 1 3/4 inches at the ends.
+The middle spreader can be cylindrical and 2 inches in diameter.
+The leading in spreader is also made of spruce and is 1 1/2 inches square and 26 inches long.
+In using a counterpoise you must bring the wire from it up to and through another leading in insulator to your instruments.
+With a crystal detector receiving set you can receive either telegraphic dots and dashes or telephonic speech and music.
+You can buy a receiving set already assembled or you can buy the different parts and assemble them yourself.
+It costs 15.00, and can be bought of dealers in electric supplies generally.
+It will receive wireless telegraph and telephone messages over a range of from 10 to 25 miles.
+This set includes a crystal detector, a variable tuning coil, a fixed condenser and a pair of head telephone receivers.
+It can also be used to receive either telegraph or telephone messages from distances up to 25 miles.
+The aerial equipment is not included in this price, but it can be bought for about 2.50 extra.
+For either set you can use a pair of 2,000 or 3,000 ohm head phones.
+The Crystal Detector. A crystal detector consists of 1 the frame, 2 the crystal, and 3 the wire point.
+The Double Slide Tuning Coil. With this tuning coil you can receive waves from any station up to 1,000 meters in length.
+The tuning coil is shown complete at B and it costs 3.00 or 4.00.
+It costs about 6.00.
+The secondary coil is wound on a cylinder that slides in and out of the primary coil.
+The loose coupler, which is shown complete at B, costs in the neighborhood of 8.00 or 10.00.
+The paper and tin foil are then pressed together and impregnated with an insulating compound.
+These condensers cost 4.00 and 5.00 respectively.
+A pair of head phones of this type is shown in Fig 14.
+Mount the detector on the right hand side of a board and the tuning coil on the left hand side.
+You are now ready to adjust the instruments.
+To do this you need a buzzer, a switch and a dry cell.
+Then vary the pressure of the point on the crystal until you hear the sparks as loud as possible.
+After you have made the adjustment open the switch and disconnect the buzzer wire from the ground wire of your set.
+You are now ready to tune the set with the tuning coil and listen in.
+There are two general styles of spark coils used for wireless and these are shown at A and B in Fig 18.
+The wiring diagram C shows how the spark coil is wired up.
+The other battery binding post connects with the standard that supports the adjusting screw.
+The Battery. This can be formed of dry cells or you can use a storage battery to energize your coil.
+The way the dry cells are connected together to form a battery will be shown presently.
+A dry cell is shown at A in Fig, 19.
+A key of the latter kind is shown at B.
+The Spark gap. It is in the spark gap that the high tension spark takes place.
+The apparatus in which the spark takes place is also called the spark gap.
+This is called a fixed, or stationary spark gap and costs about 1.00.
+It is shown at d, and costs about 5.00.
+These condensers are made up of thin brass plates insulated with a special compound and pressed into a compact form.
+It is shown at e.
+Connecting Up the Apparatus. Your sending set should be mounted on a table, or a bench, where it need not be moved.
+For the low voltage circuit, that is the battery circuit, use No 12 or 14 insulated copper wire.
+A wiring diagram of the connections is shown at B.
+It has neither a vibrator nor a condenser.
+A plain transformer is shown at A in Fig 21.
+All of these transformers operate on 110 volt, 60 cycle current and can be connected directly to the source of alternating current.
+The Wireless Key. For this transmitting set a standard wireless key should be used as shown at B.
+A rotary gap with a 110 volt motor costs about 25.00.
+A 1/4 kilowatt quenched gap costs 10.00.
+The Oscillation Transformer. With an oscillation transformer you can tune much more sharply than with a single inductance coil tuner.
+It is shown at D and costs 5.00.
+Connecting Up the Apparatus.
+This completes the closed oscillation circuit.
+For Direct Current. Where you have 110 volt direct current you must connect in an electrolytic interrupter.
+You can find out which is which by connecting in the interrupter and trying it, or you can use a polarity indicator.
+An electrolytic interrupter can be bought for as little as 3.00.
+How to Adjust Your Transmitter.
+To tune to different wave lengths you must have a wave meter.
+Both water and electricity may be at rest or in motion.
+On closing the switch the opposite charges rush together and form a current which flows to and fro between the metal plates.
+It is the battery or dynamo that sets up the electric pressure as the circuit itself is always charged with electricity.
+A fresh dry cell will deliver a current of about 1.5 volts.
+The resistance of a circuit is measured by a unit called the ohm, and it is expressed by the symbol R.
+A No 10, Brown and Sharpe gauge soft copper wire, 1,000 feet long, has a resistance of about 1 ohm.
+To measure the resistance of a circuit an apparatus called a resistance bridge is used.
+The resistance of a circuit can, however, be easily calculated, as the following shows.
+This relation between these three constants is known as Ohms Law and as they are very important you should memorize them.
+To find the watts a current develops you need only to multiply the amperes by the volts.
+There are 746 watts to 1 horsepower, and 1,000 watts are equal to 1 kilowatt.
+To discharge the condenser automatically a spark, or an arc, or the flow of electrons in a vacuum tube, is employed.
+Constants of an Oscillation Circuit. An oscillation circuit, as pointed out before, is one in which high frequency currents surge or oscillate.
+What Capacitance Is. The word capacitance means the electrostatic capacity of a condenser or a circuit.
+Inertia is that property of a material body that requires time and energy to set in motion, or stop.
+Inductance is that property of an oscillation circuit that makes an electric current take time to start and time to stop.
+Where high frequency currents surge in a circuit the inductance of it becomes a powerful factor.
+The practical unit of inductance is the henry and it is represented by the symbol L.
+The unit of resistance is, as stated, the ohm, and its symbol is R.
+How Transmitting Set No 1 Works.
+Under these conditions the ratio of transformation, as it is called, would be unity.
+The Secondary Spark Coil Circuit. This includes the secondary coil and the spark gap which are connected together.
+The closed oscillation circuit consists of 1 a spark gap, 2 a condenser and 3 an oscillation transformer.
+How Transmitting Set No 2 Works.
+The transformer needs no vibrator when used with alternating current.
+This is very much the way in which a quenched spark gap sets up oscillations in a coupled closed and open circuit.
+For this reason the radiated waves approach somewhat the condition of continuous waves, and so sharper tuning is possible.
+For this reason a crystal detector is sometimes called a rectifier, which it really is.
+The potential voltage of these oscillations are, however, stepped down in the secondary coil and, hence, their current strength amperes is increased.
+The variable condenser shunted across the closed circuit permits finer secondary tuning to be done than is possible without it.
+About Mechanical Tuning. A tuning fork is better than a spring or a straight steel bar for setting up mechanical vibrations.
+This is called simple resonance.
+Just as acoustic resonance may be simple or sympathetic so electric resonance may be simple or sympathetic.
+Tuning the receptor circuits to the transmitter circuits are examples of sympathetic electric resonance.
+There are two general types of loud speakers, though both use the principle of the telephone receiver.
+The construction of these loud speakers will be fully described in a later chapter.
+You can, however, buy all the various parts separately and mount them yourself.
+The loose coupled tuning coil, the variable condenser and the telephone receivers are the same as those described in Chapter III.
+The Vacuum Tube Detector.
+The way the three electrode vacuum tube detector is connected with the batteries is shown at B.
+In assembling a receiving set you must, of course, have a socket for the vacuum tube.
+A vacuum tube detector costs from 5.00 to 6.00.
+It is shown at A in Fig 39.
+A dry cell battery for a plate circuit is shown at B.
+The rheostat consists of an insulating and a heat resisting form on which is wound a number of turns of resistance wire.
+It is shown at A and B in Fig 40 and costs 1.25.
+Whatever you do be careful not to get the plate connections of the battery reversed.
+By carefully adjusting the rheostat you can easily find the point at which it makes the tube the most sensitive.
+The degree to which a vacuum tube has been exhausted has a very pronounced effect on its sensitivity.
+The longer the tube is used the lower its vacuum gets and generally the less sensitive it becomes.
+Moreover, a tube that is completely exhausted costs more than one that is filled with gas.
+Where two or more amplifier tubes are coupled together in this way the scheme is known as cascade amplification.
+A Grid Leak Amplifier Receiving Set.
+The A and B batteries are exactly the same as those described in Chapter VIII.
+The vacuum tube amplifier and the grid leak are the only new pieces of apparatus you need and not described before.
+A radio frequency transformer is shown at B and costs 6 to 7.
+It is like using steam over and over again in a steam turbine until there is no more energy left in it.
+The Simplest Type of Regenerative Receiving Set.
+Connect the or positive electrode of the A battery with one post of the.001 mfd.
+An Efficient Regenerative Receiving Set.
+The smallest size coils cost about 1.50 apiece and the mounting costs about 6 or 7 each.
+It is, however, used as well as the rheostat.
+As you will see from A in Fig 51 it has three taps.
+Since the A battery gives 6 volts you can vary the potential of the plate from 18 to 24 volts.
+The potentiometer must never be shunted around the B battery or the latter will soon run down.
+A potentiometer costs a couple of dollars.
+Now connect one end of the tickler coil with the detector plate and the other post to the fixed.001 mfd.
+Finally, shunt the head phones and the.001 mfd.
+To get the greatest amplification possible with amplifying tubes you have to keep a negative potential on the grids.
+This scheme will give the grids a negative bias of about 1 volt.
+A variable condenser of.001 mfd.
+Now connect one end of the secondary coil to one post of a.001 mfd.
+Then shunt the headphones around the condenser.
+These tuning devices can be connected up in different ways and are very popular with amateurs at the present time.
+A Short Wave Regenerative Receiver With One Variometer and Three Variable Condensers. This set also includes a variocoupler and a grid coil.
+While this set can be used without shielding the parts from each other the best results are had when shields are used.
+This is the part of the variocoupler that is called the stator.
+A diagram of a variocoupler is shown at A in Fig 53, and the coupler itself at B.
+To be really efficient a variometer must have a small resistance and a large inductance as well as a small dielectric loss.
+A new type of variometer has what is known as a basket weave, or wavy wound stator and rotor.
+A wiring diagram of a variometer is shown at A in Fig 54 and a basketball variometer is shown complete at B.
+Now connect one end of the secondary coil, or rotor, to one post of a.0007 mfd.
+Next connect one post of the.0007 mfd.
+Finally shunt a.001 mfd.
+Short Wave Regenerative Receiver.
+When you connect up this receptor you must keep the various parts well separated.
+Now connect one end of the secondary coil, or rotor, of the variocoupler with one post of the.0005 mfd.
+To receive continuous wave telegraph signals requires receiving sets of special kind and these will be described in the next chapter.
+Likewise connect the other loading coil in one side of the closed, or secondary circuit between the variable.0007 mfd.
+The other connections are exactly the same as shown in Figs 44 and 45.
+By winding inductance coils with two or more layers the highest inductance values can be obtained with the least resistance.
+A wiring diagram of a multipoint inductance coil is shown in Fig 58.
+You can buy this intermediate wave set assembled and ready to use or get the parts and connect them up yourself.
+A long wave set for receiving these stations must be able to tune to wave lengths up to 20,000 meters.
+The variable condenser used in series with the aerial wire system has 26 plates and is equal to a capacitance of.0008 mfd.
+The condenser used in the secondary coil circuit has 14 plates and this is equal to a capacitance of.0004 mfd.
+The inductance coils of the aerial wire system and those of the secondary coil circuit are practically alike.
+The connections for a long wave receptor are shown in the wiring diagram in Fig 59.
+The heterodyne method will be described in this chapter.
+This, then, is the principle of the heterodyne, or beat, receptor.
+A fuller explanation of how this is done will be found in Chapter XV.
+The connections for the autodyne, or self heterodyne, receiving set are shown in Fig 60.
+The connections are shown in Fig 61.
+In using either of these heterodyne receivers be sure to carefully adjust the B battery by means of the potentiometer.
+The ends of this magnet, which are called poles, are bent up, and hence this type is called a bipolar receiver.
+A high grade headset is shown in Fig 64.
+Each phone of a headset should be wound to the same resistance, and these are connected in series as shown.
+This added magnetic energy makes the magnet attract the diaphragm more than it would do by its own force.
+When varying currents flow through the coils the diaphragm vibrates accordingly and sends out sound waves.
+About Loud Speakers. The simplest acoustic instrument ever invented is the megaphone, which latter is a Greek word meaning great sound.
+It is a very primitive device and our Indians made it out of birch bark before Columbus discovered America.
+Amplifying tubes are made to stand a plate potential of 100 volts and this is the kind you must use.
+The construction is rigid enough to prevent overtones, or distortion of speech or music.
+It is shown in Fig 65.
+Here it is reflected by a parabolic mirror which greatly amplifies the sounds.
+The amplification takes place without distortion, the sounds remaining as clear and crisp as when projected by the transmitting station.
+It is pictured in Fig 67.
+A Super Loud Speaker. This loud speaker, which is known as the Magnavox Telemegafone, was the instrument used by Lt.
+This wonderful achievement was accomplished through the installation of the Magnavox and amplifiers in front of the Treasury Building.
+It does, however, transform the variable electric currents of the wireless receiving set into sound vibrations in a most wonderful manner.
+The Telemegafone is shown complete at B.
+To understand how a vacuum tube acts as a detector and as an amplifier you must first know what electrons are.
+There are several ways that this can be done but in any event each atom must be given a good, hard blow.
+This can be done by giving the latter piece of metal a positive charge.
+Fleming, of Oxford University, London.
+This latter relay action will be explained when we come to its operation as an amplifier.
+This is the reason the vacuum tube amplifies as well as detects.
+Since the electrons do not reach the plate the current from the B battery cannot flow between it and the filament.
+This then is the principle on which the amplifying tube works.
+From this you will see that any regenerative set can be used for autodyne, or self heterodyne, reception.
+The Separate Heterodyne Receiving Set. The better way, however, is to use a separate vacuum tube for setting up the heterodyne oscillations.
+The way in which the tube acts as a generator of oscillations will be told in Chapter XVIII.
+Or in a pinch you can use five standard B batteries to develop the plate voltage, but these will soon run down.
+The Tuning Coil. You can either make this tuning coil or buy one.
+You can buy a coil of this kind for 4.00 or 5.00.
+The Condensers. For the aerial series condenser get one that has a capacitance of.002 mfd.
+It is shown at C.
+In these condensers the leaves of the sheet metal are embedded in composition.
+The aerial condenser will cost you 2.00 and the others 75 cents each.
+For this small transmitter you can use an ordinary buzzer as shown at F.
+A dry cell or two must be used to energize the buzzer.
+You can get one for about 75 cents.
+The key shown at G is mounted on a composition base and is the cheapest key made, costing 1.50.
+The current required for heating the filament is about 1 ampere at 6 volts.
+A porcelain socket should be used for this tube as it is the best insulating material for the purpose.
+An amplifier tube of this type is shown at H and costs 6.50.
+The cheapest 6 volt storage battery on the market has a 20 to 40 ampere hour capacity and sells for 13.00.
+The Battery Rheostat. As with the receptors a rheostat is needed to regulate the current that heats the filament.
+A rheostat of this kind is shown at I and is listed at 1.25.
+A piece of it is pictured at J.
+The Panel Cut Out. This is used to connect the cord of the 110 volt lamp socket with the transmitter.
+In some localities it is necessary to place these in an iron box to conform to the requirements of the fire underwriters.
+Connecting Up the Transmitting Apparatus. The way the various pieces of apparatus are connected together is shown in the wiring diagram.
+Now connect the end of the tuning coil that leads to the ammeter with one end of the.001 mfd.
+Connect the telegraph key, the buzzer and the dry cell in series and then shunt them around the grid condenser.
+Next connect the plate of the tube with one end of the.001 mfd.
+Telegraph Transmitter. Here is a continuous wave telegraph transmitter that will cover distances up to 100 miles that you can rely on.
+It is fitted with one fixed tap and three clips to each of which a length of copper braid is attached.
+A condenser of this kind costs 5.40.
+The Grid and Blocking Condensers. Each of these is a fixed condenser of.002 mfd.
+It is made like the aerial condenser but has only two terminals.
+The Key Circuit Apparatus. This consists of 1 the grid leak 2 the chopper 3 the choke coil, and 4 the key.
+It has a resistance of 5000 ohms with a mid tap at 2500 ohms as shown at C.
+The chopper is simply a rotary interrupter driven by a small motor.
+A metal contact called a brush is fixed on either side of the wheel.
+It costs about 7.00 and the motor to drive it is extra.
+The filament takes a current of a little more than 2 amperes at 7.5 volts.
+A standard 4 tap base is used with it.
+The tube costs 8.00 and the porcelain base is 1.00 extra.
+The Storage Battery and Rheostat. This must be a 5 cell battery so that it will develop 10 volts.
+A storage battery of any capacity can be used but the lowest priced one costs about 22.00.
+The rheostat for regulating the battery current is the same as that used in the preceding experimental transmitter.
+For this transmitter a direct current voltmeter reading from 0 to 15 volts is used.
+It is shown at F and costs 7.50.
+The Oscillation Choke Coil. This is made exactly like the one described in connection with the experimental transmitter.
+Get a 100 watt 350 volt motor generator it is shown at F and costs about 75.00.
+The Panel Cut Out. This switch and fuse block is the same as that used in the experimental set.
+The Protective Condenser. This is a fixed condenser having a capacitance of 1 mfd.
+Where two or more oscillator tubes are used only one storage battery is needed, but each filament must have its own rheostat.
+The wiring diagram Fig 79 shows how the two tubes are connected up in parallel.
+Much of the apparatus for a 50 watt tube set is exactly the same as that used for the 5 watt sets.
+Some of the parts, however, must be proportionately larger though the design all the way through remains the same.
+The 50 Watt Vacuum Tube Oscillator. This is the size of tube generally used by amateurs for long distance continuous wave telegraphy.
+A single tube will develop 2 to 3 amperes in your aerial.
+The filament takes a 10 volt current and a plate potential of 1,000 volts is needed.
+One of these tubes is shown in Fig 80 and the cost is 30.00.
+A tube socket to fit it costs 2.50 extra.
+The Aerial Ammeter. This should read to 5 amperes and the cost is 6.25.
+It is listed at 1.65.
+The Oscillation Choke Coil. The choke coil in the power circuit is made of about 260 turns of No 30 B.
+The Filament Rheostat. This is made to take care of a 10 volt current and it costs 10.00.
+The Filament Storage Battery. This must develop 12 volts and one having an output of 40 ampere hours costs about 25.00.
+The Protective Condenser. This condenser has a capacitance of 1 mfd.
+This machine will stand you about 100.00.
+It looks like the aerial ammeter and costs about 7.50.
+Power Transformer. Differing from the motor generator set the power transformer has no moving parts.
+For this transmitting set you need a transformer that has an input of 325 volts.
+This adjustment for voltage is made by means of taps brought out from the primary coil to a rotary switch.
+The low voltage secondary coil which heats the filament has an output of 175 watts and develops 7.5 volts.
+It weighs about 15 pounds and sells for 25.00.
+Connecting Up the Apparatus. The wiring diagram Fig 82 shows clearly how all of the connections are made.
+The apparatus needed is identical with that used for the 100 mile transmitter just described.
+The tubes are connected in parallel as shown in the wiring diagram in Fig 83.
+The Apparatus Required. All of the apparatus for this C.
+The low voltage secondary coil which heats the filament develops 10.5 volts.
+This transformer will supply current for one or two 50 watt oscillator tubes and it costs about 40.00.
+In time past the most difficult of all electrical apparatus for the amateur to make, install and work was the wireless telephone.
+The energy of these sustained modulated oscillations is then radiated into space from the aerial in the form of electric waves.
+Finally, where four or five oscillator tubes are connected in parallel proportionately greater distances can be covered.
+Telegraph Transmitter, except that you use a microphone transmitter instead of a telegraph key.
+This is known as a solid back transmitter and is the standard commercial type used on all long distance Bell telephone lines.
+It is shown in Fig 84 and costs 2.00.
+Any other good microphone transmitter can be used if desired.
+Connect the protective condenser across the direct current feed wires between the panel cut out and the choke coil.
+To make this transmitter you will need exactly the same apparatus as that described and pictured for the 100 Mile C.
+All of these parts have been described, as said above, in Chapter XVI, except the microphone modulators.
+It consists of a primary coil of No 20 B.
+This device is used to control the variations of the oscillating currents that are set up by the oscillator tube.
+It costs about 10.00.
+Now there are three different ways that the microphone and its modulator can be connected in circuit.
+Two of the best ways are shown at A and B in Fig 89.
+The Oscillation Choke Coil. You can make this choke coil by winding about 275 turns of No 28 B.
+Give it a good coat of shellac varnish and let it dry thoroughly.
+Likewise the grid circuit reactor is used to keep the voltage of the grid at a constant value.
+Connecting up the Apparatus. All of the different pieces of apparatus are connected up as shown in Fig 89.
+All of these parts, except the latter, are described in detail under the heading of a 500 Mile C.
+Telegraph Transmitting Set in Chapter XVI, and are also pictured in that chapter.
+The magnetic modulator is described and pictured in this chapter.
+All of the above pieces of apparatus are the same as those described for the 100 Mile C.
+The filament terminal takes a current of 7.5 volts and this is supplied by another secondary coil of the transformer.
+This rectifier tube delivers a direct current of 20 watts at 350 volts.
+It looks exactly like the 5 watt oscillator tube which is pictured at E in Fig 77.
+The price is 7.50.
+They have a capacitance of 1 mfd.
+These condensers cost about 2.00 each.
+This size of reactor costs 11.50.
+The apparatus is wired up as shown in Fig 93.
+The three foregoing chapters explained in detail the design and construction of 1 two kinds of C.
+The Operation of C.
+Telegraph Transmitters With Direct Current Short Distance C.
+When oscillations are set up in it the grid is alternately charged to the positive and negative signs.
+These reversals of voltage set up stronger and ever stronger oscillations in the plate circuit as before explained.
+The oscillations are varied by means of the telegraph key which is placed in the grid circuit as shown in Fig 76.
+The Operation of the Key Circuit. The effect in a C.
+The way the motor generator changes the low into high voltage current has been explained in Chapter XVI.
+The operation of key circuits of the latter kind will be described presently.
+Hence this kind of a sending set is called a tone transmitter.
+This is better than a direct current for it adds to the life of the filament.
+This kind of a set is called a full wave rectification transmitter.
+Telegraph Transmitter already explained in this chapter.
+The only difference in the operation of these sets is the substitution of the microphone transmitter for the telegraph key.
+By referring to the diagram at A in this figure you will readily understand how it operates.
+As you speak into the microphone transmitter its resistance is varied and the current strength of the oscillations is varied accordingly.
+The third device works on a different principle and this will be described a little farther along.
+The Microphone Transformer. This is an induction coil that is designed especially for wireless telephone modulation.
+The Magnetic Modulator. This piece of apparatus is also called a magnetic amplifier.
+It is shown connected in the aerial wire system at A in Fig 88, and in Fig 93.
+The second method is an efficient one, as the direct current is varied before it passes into the oscillator tube.
+This is sufficient reason for describing only the second method.
+For this reason a magnetic modulator is the cheapest in the long run.
+The Operation of Rectifier Vacuum Tubes. The vacuum tube rectifier is simply a two electrode vacuum tube.
+For this reason both a filter reactor and filter condensers are used to smooth out the pulsating direct currents.
+In the chapters on Receptors you have been told how to build up high grade sets.
+All you need for this set are 1 a crystal detector, 2 a tuning coil and 3 an earphone.
+It is shown in Fig 96.
+Now wind on 250 turns of No 40 Brown and Sharpe gauge plain enameled magnet wire.
+Now buy a round wood base switch with 7 contact points on it as shown at B in Fig 97.
+This will cost you 25 or 50 cents.
+Then you must get a thin diaphragm and this should not be enameled, as this tends to dampen the vibrations of it.
+You can get a diaphragm of the right kind for 5 cents.
+The better way, though, is to buy an earphone made especially for wireless work.
+You can get one wound to 1000 ohms resistance for 1.75 and this price includes a cord.
+This done, screw the switch down to the base.
+Finally screw the detector to the base and screw two binding posts in front of the coil.
+These are for the earphone.
+For a ground you can use a water pipe, an iron pipe driven into the ground, or a hydrant.
+ABBREVIATIONS, CODE. Abbreviations of questions and answers used in wireless communication.
+The abbreviation of a question is usually in three letters of which the first is Q.
+ABBREVIATIONS, UNITS. Abbreviations of various units used in wireless electricity.
+These abbreviations are usually lower case letters of the Roman alphabet, but occasionally Greek letters are used and other signs.
+Thus amperes is abbreviated amp., micro, which means one millionth,, etc.
+AERIAL. Also called antenna.
+One or more wires suspended in the air and insulated from its supports.
+It is the aerial that sends out the waves and receives them.
+AERIAL, AMATEUR. An aerial suitable for sending out 200 meter wave lengths.
+AERIAL, BED SPRINGS. Where an outdoor aerial is not practicable bed springs are often made to serve the purpose.
+The counterpoise is made like the aerial and is supported directly under it close to the ground but insulated from it.
+It is also called a ground antenna and an underground aerial.
+AERIAL, LOOP. Also called a coil aerial, coil antenna, loop aerial, loop antenna and when used for the purpose a direction finder.
+A coil of wire wound on a vertical frame.
+AERIAL WIRE. 1 A wire or wires that form the aerial.
+AERIAL WIRE SYSTEM. An aerial and ground wire and that part of the inductance coil which connects them.
+The open oscillation circuit of a sending or a receiving station.
+ALTERNATOR. An electric machine that generates alternating current.
+ALPHABET, INTERNATIONAL CODE. A modified Morse alphabet of dots and dashes originally used in Continental Europe and, hence, called the Continental Code.
+ALTERNATING CURRENT AC See Current.
+AMMETER. An instrument used for measuring the current strength, in terms of amperes, that flows in a circuit.
+Ammeters used for measuring direct and alternating currents make use of the magnetic effects of the currents.
+High frequency currents make use of the heating effects of the currents.
+Such an instrument is often called a thermal ammeter, radio ammeter and aerial ammeter.
+This product of the current in amperes times the number of turns of wire on the coil is called the ampere turns.
+AMPLIFICATION, AUDIO FREQUENCY. A current of audio frequency that is amplified by an amplifier tube or other means.
+AMPLIFIER, AUDIO FREQUENCY. A vacuum tube or other device that amplifies the signals after passing through the detector.
+AMPLIFIER, MAGNETIC. A device used for controlling radio frequency currents either by means of a telegraph key or a microphone transmitter.
+AMPLIFIERS, MULTI STAGE. A receiving set using two or more amplifiers.
+AMPLIFIER, VACUUM TUBE. A vacuum tube that is used either to amplify the radio frequency currents or the audio frequency currents.
+AMPLITUDE OF WAVE. The greatest distance that a point moves from its position of rest.
+ATMOSPHERICS. Same as Static, which see.
+ATTENUATION. In Sending wireless telegraph and telephone messages the amplitude of the electric waves is damped out as the distance increases.
+This is called attenuation and it increases as the frequency is increased.
+This is the reason why short wave lengths will not carry as far as long wave lengths.
+AUDION. An early trade name given to the vacuum tube detector.
+BAKELITE. A manufactured insulating compound.
+BATTERY, A. The 6 volt storage battery used to heat the filament of a vacuum tube, detector or amplifier.
+BATTERY, B. The 22 1/2 volt dry cell battery used to energize the plate of a vacuum tube detector or amplifier.
+BATTERY, BOOSTER. This is the battery that is connected in series with the crystal detector.
+BATTERY, C. A small dry cell battery sometimes used to give the grid of a vacuum tube detector a bias potential.
+BATTERY, EDISON STORAGE. A storage battery in which the elements are made of nickel and iron and immersed in an alkaline electrolyte.
+BATTERY, LEAD STORAGE. A storage battery in which the elements are made of lead and immersed in an acid electrolyte.
+BATTERY, PRIMARY. A battery that generates current by chemical action.
+BATTERY, STORAGE. A battery that develops a current after it has been charged.
+BLUB BLUB. Over modulation in wireless telephony.
+CAPACITANCE. Also called by the older name of capacity.
+The capacity of a condenser, inductance coil or other device capable of retaining a charge of electricity.
+Capacitance is measured in terms of the microfarad.
+CAPACITY, AERIAL. The amount to which an aerial wire system can be charged.
+The capacitance of a small amateur aerial is from 0.0002 to 0.0005 microfarad.
+CAPACITY, DISTRIBUTED. A coil of wire not only has inductance, but also a certain small capacitance.
+In honeycomb and other stagger wound coils the capacitance is more evenly distributed.
+CASCADE AMPLIFICATION. Two or more amplifying tubes hooked up in a receiving set.
+CAT WHISKER CONTACT. A long, thin wire which makes contact with the crystal of a detector.
+CENTIMETER OF CAPACITANCE. Equal to 1.11 microfarads.
+CENTIMETER OF INDUCTANCE. Equal to one one thousandth part of a microhenry.
+CHARACTERISTICS. The special behavior of a device, such as an aerial, a detector tube, etc.
+CHOKE COILS. Coils that prevent the high voltage oscillations from surging back into the transformer and breaking down the insulation.
+CIRCUIT. Any electrical conductor through which a current can flow.
+A high frequency current will surge in a wire which is open at both ends like the aerial.
+Closed Circuit. A circuit that is continuous.
+Open Circuit. A conductor that is not continuous.
+Coupled Circuits. Open and closed circuits connected together by inductance coils, condensers or resistances.
+Close Coupled Circuits. Open and closed circuits connected directly together with a single inductance coil.
+Loose Coupled Circuits. Opened and closed currents connected together inductively by means of a transformer.
+Stand by Circuits. Also called pick up circuits.
+Armstrong Circuits. The regenerative circuit invented by Major E.
+Continental. Same as International.
+International. On the continent of Europe land lines use the Continental Morse alphabetic code.
+This code has come to be used throughout the world for wireless telegraphy and hence it is now called the International code.
+It is given on Page 305.
+Morse. The code devised by Samuel F.
+Morse and which is used on the land lines in the U.
+This code also covers the requirements for wireless installations.
+A copy may be had from the National Board of Fire Underwriters, New York City, or from your insurance agent.
+National Electric Safety. The Bureau of Standards, Washington, D.
+C., have investigated the precautions which should be taken for the safe operation of all electric equipment.
+A copy of the Bureau of Standards Handbook No 3 can be had for 40 cents from the Superintendent of Documents.
+COIL, INDUCTION. An apparatus for changing low voltage direct currents into high voltage, low frequency alternating currents.
+When fitted with a spark gap the high voltage, low frequency currents are converted into high voltage, high frequency currents.
+It is then also called a spark coil and a Ruhmkorff coil.
+COIL, LOADING. A coil connected in the aerial or closed oscillation circuit so that longer wave lengths can be received.
+COIL, ROTATING. One which rotates on a shaft instead of sliding as in a loose coupler.
+The rotor of a variometer or variocoupler is a rotating coil.
+COILS, INDUCTANCE. These are the tuning coils used for sending and receiving sets.
+CONDENSER, AERIAL SERIES. A condenser placed in the aerial wire system to cut down the wave length.
+CONDENSER, VERNIER. A small variable condenser used for receiving continuous waves where very sharp tuning is desired.
+Adjustable Condenser. Where two or more condensers can be coupled together by means of plugs, switches or other devices.
+Aerial Condenser. A condenser connected in the aerial.
+Air Condenser. Where air only separates the sheets of metal.
+Fixed Condenser. Where the plates are fixed relatively to one another.
+Grid Condenser. A condenser connected in series with the grid lead.
+Leyden Jar Condenser. Where glass jars are used.
+Mica Condenser. Where mica is used.
+Oil Condenser. Where the plates are immersed in oil.
+Paper Condenser. Where paper is used as the insulating material.
+Variable Condenser. Where alternate plates can be moved and so made to interleave more or less with a set of fixed plates.
+Vernier. A small condenser with a vernier on it so that it can be very accurately varied.
+CONDENSITE. A manufactured insulating compound.
+CONDUCTIVITY. The conductance of a given length of wire of uniform cross section.
+The reciprocal of resistivity.
+COULOMB. The quantity of electricity transferred by a current of 1 ampere in 1 second.
+A duplicate of the aerial wire that is raised a few feet above the earth and insulated from it.
+Usually no connection is made with the earth itself.
+COUPLING, CAPACITIVE. Oscillation circuits when connected together by condensers instead of inductance coils.
+COUPLING, COEFFICIENT OF. The measure of the closeness of the coupling between two coils.
+COUPLING, INDUCTIVE. Oscillation circuits when connected together by inductance coils.
+COUPLING, RESISTANCE. Oscillation circuits connected together by a resistance.
+CRYSTAL RECTIFIER. A crystal detector.
+CURRENT, ALTERNATING AC. A low frequency current that surges to and fro in a circuit.
+CURRENT, AUDIO FREQUENCY. A current whose frequency is low enough to be heard in a telephone receiver.
+Such a current usually has a frequency of between 200 and 2,000 cycles per second.
+CURRENT, PLATE. The current which flows between the filament and the plate of a vacuum tube.
+CURRENT, PULSATING. A direct current whose voltage varies from moment to moment.
+CURRENT, RADIO FREQUENCY. A current whose frequency is so high it cannot be heard in a telephone receiver.
+Such a current may have a frequency of from 20,000 to 10,000,000 per second.
+CURRENTS, HIGH FREQUENCY. 1 Currents that oscillate from 10,000 to 300,000,000 times per second.
+CURRENTS, HIGH POTENTIAL. 1 Currents that have a potential of more than 10,000 volts.
+CYCLE. 1 A series of changes which when completed are again at the starting point.
+DAMPING. The degree to which the energy of an electric oscillation is reduced.
+DECREMENT. The act or process of gradually becoming less.
+Carborundum. One that uses a carborundum crystal for the sensitive element.
+Carborundum is a crystalline silicon carbide formed in the electric furnace.
+A brass colored mineral used as a crystal for detectors.
+Contact. A crystal detector.
+Any kind of a detector in which two dissimilar but suitable solids make contact.
+Ferron. A detector in which iron pyrites are used as the sensitive element.
+Galena. A detector that uses a galena crystal for the rectifying element.
+Iron Pyrites. A detector that uses a crystal of iron pyrites for its sensitive element.
+Molybdenite. A detector that uses a crystal of sulphide of molybdenum for the sensitive element.
+Perikon. A detector in which a bornite crystal makes contact with a zincite crystal.
+Silicon. A detector that uses a crystal of silicon for its sensitive element.
+Vacuum Tube. A vacuum tube which see used as a detector.
+Zincite. A detector in which a crystal of zincite is used as the sensitive element.
+DIELECTRIC. An insulating material between two electrically charged plates in which there is set up an electric strain, or displacement.
+DIELECTRIC STRAIN. The electric displacement in a dielectric.
+This is known as the duplex system.
+EARTH CAPACITY. An aerial counterpoise.
+EARTH CONNECTION. Metal plates or wires buried in the ground or immersed in water.
+Any kind of means by which the sending and receiving apparatus can be connected with the earth.
+ELECTRIC ENERGY. The power of an electric current.
+ELECTRICITY, NEGATIVE. The opposite of positive electricity.
+Negative electricity is formed of negative electrons which make up the outside particles of an atom.
+ELECTRICITY, POSITIVE. The opposite of negative electricity.
+Positive electricity is formed of positive electrons which make up the inside particles of an atom.
+ELECTRODES. Usually the parts of an apparatus which dip into a liquid and carry a current.
+The electrodes of a dry battery are the zinc and carbon elements.
+ELECTROLYTES. The acid or alkaline solutions used in batteries.
+ELECTROMOTIVE FORCE. Abbreviated emf.
+The force that drives an electric current along a conductor.
+Also loosely called voltage.
+ELECTROMOTIVE FORCE, COUNTER. The emf.
+ELECTRON. 1 A negative particle of electricity that is detached from an atom.
+ELECTRON FLOW. The passage of electrons between the incandescent filament and the cold positively charged plate of a vacuum tube.
+ELECTRON TUBE. A vacuum tube or a gas content tube used for any purpose in wireless work.
+ELECTROSE INSULATORS. Insulators made of a composition material the trade name of which is Electrose.
+ENERGY UNIT. The joule, which see, Page 308.
+FEED BACK ACTION. Feeding back the oscillating currents in a vacuum tube to amplify its power.
+FILAMENT. The wire in a vacuum tube that is heated to incandescence and which throws off electrons.
+FLEMING VALVE. A two electrode vacuum tube.
+Carrier. A radio frequency wave modulated by an audio frequency wave which results in setting of three radio frequency waves.
+The principal radio frequency is called the carrier frequency, since it carries or transmits the audio frequency wave.
+Commercial. 1 Alternating current that is used for commercial purposes, namely, light, heat and power.
+Likewise an oscillation circuit has a natural frequency which depends upon its inductance, capacitance and resistance.
+Spark. The number of sparks per second produced by the discharge of a condenser.
+GAP, FIXED. One with fixed electrodes.
+GAP, QUENCHED. 1 A spark gap for the impulse production of oscillating currents.
+GAP, ROTARY. One having fixed and rotating electrodes.
+GAP, SYNCHRONOUS. A rotary spark gap run at the same speed as the alternator which supplies the power transformer.
+Such a gap usually has as many teeth as there are poles on the generator.
+Hence one spark occurs per half cycle.
+GENERATOR TUBE. A vacuum tube used to set up oscillations.
+These characteristics are generally shown by curves.
+GRID LEAK. A high resistance unit connected in the grid lead of both sending and receiving sets.
+In a receiving set it controls the current flowing between the plate and filament.
+GRID POTENTIAL. The negative or positive voltage of the grid of a vacuum tube.
+GRINDERS. The most common form of Static, which see.
+They make a grinding noise in the headphones.
+GROUND, AMATEUR. A water pipe ground.
+GROUND, WATERPIPE. A common method of grounding by amateurs is to use the waterpipe, gaspipe or radiator.
+HARD TUBE. A vacuum tube in which the vacuum is high, that is, exhausted to a high degree.
+HELIX. 1 Any coil of wire.
+HETERODYNE RECEPTION. 1 Receiving by the beat method.
+HORSE POWER. Used in rating steam machinery.
+It is equal to 746 watts.
+INDUCTION, MUTUAL. Induction produced between two circuits or coils close to each other by the mutual interaction of their magnetic fields.
+INSULATION. Materials used on and around wires and other conductors to keep the current from leaking away.
+It is the untoward interference between electric waves from different stations that makes selective signaling so difficult a problem.
+JAMMING. Waves that are of such length and strength that when they interfere with incoming waves they drown them out.
+JOULE. The energy spent in 1 second by a flow of 1 ampere in 1 ohm.
+JOULES LAW. The relation between the heat produced in seconds to the resistance of the circuit, to the current flowing in it.
+KENOTRON. The trade name of a vacuum tube rectifier made by the Radio Corporation of America.
+LITZENDRAHT. A conductor formed of a number of fine copper wires either twisted or braided together.
+It is used to reduce the skin effect.
+MEGOHM. One million ohms.
+METER, AUDIBILITY. An instrument for measuring the loudness of a signal by comparison with another signal.
+It consists of a pair of headphones and a variable resistance which have been calibrated.
+MHO. The unit of conductance.
+As conductance is the reciprocal of resistance it is measured by the reciprocal ohm or mho.
+MICA. A transparent mineral having a high insulating value and which can be split into very thin sheets.
+It is largely used in making condensers both for transmitting and receiving sets.
+MICROFARAD. The millionth part of a farad.
+MICROHENRY. The millionth part of a farad.
+MICROMICROFARAD. The millionth part of a microfarad.
+MICROHM. The millionth part of an ohm.
+MILLI AMMETER. An ammeter that measures a current by the one thousandth of an ampere.
+MODULATION. 1 Inflection or varying the voice.
+MILLIHENRY. The thousandth part of a henry.
+MODULATION, PLATE. Modulating the oscillations set up by a vacuum tube by varying the current impressed on the plate.
+MODULATOR TUBE. A vacuum tube used as a modulator.
+MOTION, WAVE. 1 The to and fro motion of water at sea.
+MUSH. Irregular intermediate frequencies set up by arc transmitters which interfere with the fundamental wave lengths.
+OSCILLATIONS, ELECTRIC. A current of high frequency that surges through an open or a closed circuit.
+Sustained. Oscillations in which the damping factor is small.
+Damped. Oscillations in which the damping factor is large.
+OSCILLATOR TUBE. A vacuum tube which is used to produce electric oscillations.
+PANCAKE OSCILLATION TRANSFORMER. Disk shaped coils that are used for receiving tuning inductances.
+PERMEABILITY, MAGNETIC. The degree to which a substance can be magnetized.
+Iron has a greater magnetic permeability than air.
+PHASE. A characteristic aspect or appearance that takes place at the same point or part of a cycle.
+POLES, BATTERY. The positive and negative terminals of the elements of a battery.
+On a storage battery these poles are marked and respectively.
+POLES, MAGNETIC. The ends of a magnet.
+POTENTIAL DIFFERENCE. The electric pressure between two charged conductors or surfaces.
+POTENTIOMETER. A variable resistance used for subdividing the voltage of a current.
+RADIATION. The emission, or throwing off, of electric waves by an aerial wire system.
+RADIOTRON. The trade name of vacuum tube detectors, amplifiers, oscillators and modulators made by the Radio Corporation of America.
+REACTANCE, CAPACITY. The capacity reactance is the opposition offered to a current by a capacity.
+It is measured as a resistance, that is, in ohms.
+RECEIVER, WATCH CASE. A compact telephone receiver used for wireless reception.
+REACTANCE, INDUCTIVE. The inductive reactance is the opposition offered to the current by an inductance coil.
+REACTOR, FILTER. A reactance coil for smoothing out the pulsating direct currents as they come from the rectifier.
+RECEIVER. 1 A telephone receiver.
+RECTIFIER. 1 An apparatus for changing alternating current into pulsating direct current.
+RECEPTOR. A receiving set.
+RECEPTOR, BEAT. A heterodyne receptor.
+RECEPTOR, HETERODYNE. A receiving set that uses a separate vacuum tube to set up the second series of waves for beat reception.
+RELAY, ELECTRON. A vacuum tube when used as a detector or an amplifier.
+REPEATING COIL. A transformer used in connecting up a wireless receiver with a wire transmitter.
+RESISTANCE. The opposition offered by a wire or other conductor to the passage of a current.
+RESISTANCE, AERIAL. The resistance of the aerial wire to oscillating currents.
+This is greater than its ordinary ohmic resistance due to the skin effect.
+RESISTIVITY. The resistance of a given length of wire of uniform cross section.
+The reciprocal of conductivity.
+RESISTOR. A fixed or variable resistance unit or a group of such units.
+Variable resistors are also called resistance boxes and more often rheostats.
+RESONANCE. 1 Simple resonance of sound is its increase set up by one body by the sympathetic vibration of a second body.
+RHEOSTAT. A variable resistance unit.
+RHEOSTAT, CARBON. A carbon rod, or carbon plates or blocks, when used as variable resistances.
+ROTOR. The rotating coil of a variometer or a variocoupler.
+SATURATION. The maximum plate current that a vacuum tube will take.
+SENSITIVE SPOTS. Spots on detector crystals that are sensitive to the action of electric oscillations.
+SIGNALS, CONVENTIONAL. 1 The International Morse alphabet and numeral code, punctuation marks, and a few important abbreviations used in wireless telegraphy.
+Now used for all general public service wireless communication.
+SOFT TUBE. A vacuum tube in which the vacuum is low, that is, it is not highly exhausted.
+Plain. A spark gap with fixed electrodes.
+Rotary. A spark gap with a pair of fixed electrodes and a number of electrodes mounted on a rotating element.
+Quenched. A spark gap formed of a number of metal plates placed closely together and insulated from each other.
+SPREADER. A stick of wood, or spar, that holds the wires of the aerial apart.
+STATIC. Also called atmospherics, grinders, strays, Xs, and, when bad enough, by other names.
+It is an electrical disturbance in the atmosphere which makes noises in the telephone receiver.
+STATOR. The fixed or stationary coil of a variometer or a variocoupler.
+STRAY ELIMINATION. A method for increasing the strength of the signals as against the strength of the strays.
+SWITCH, LIGHTNING. The switch that connects the aerial with the outside ground when the apparatus is not in use.
+SYMBOLS, APPARATUS. Also called conventional symbols.
+They are easy to make and easy to read.
+The device usually consists of a fine steel or gold wire slipping in the smooth groove of a rotating brass wheel.
+TRANSFORMER. A primary and a secondary coil for stepping up or down a primary alternating or oscillating current.
+Air Cooled. A transformer in which the coils are exposed to the air.
+Hence the core consists of the air inside of the coils.
+Audio Amplifying. This is a transformer with an iron core and is used for frequencies up to say 3,000.
+Closed Core. A transformer in which the path of the magnetic flux is entirely through iron.
+Power transformers have closed cores.
+Microphone. A small transformer for modulating the oscillations set up by an arc or a vacuum tube oscillator.
+Oil Cooled. A transformer in which the coils are immersed in oil.
+Open Core. A transformer in which the path of the magnetic flux is partly through iron and partly through air.
+Induction coils have open cores.
+Oscillation. A coil or coils for transforming or stepping down or up oscillating currents.
+Oscillation transformers usually have no iron cores when they are also called air core transformers.
+Radio Amplifying. This is a transformer with an air core.
+It does not in itself amplify but is so called because it is used in connection with an amplifying tube.
+TRANSMITTER, MICROPHONE. A telephone transmitter of the kind that is used in the Bell telephone system.
+Likewise, when the sending and receiving stations are adjusted to the same wave length they are said to be tuned.
+The smaller the decrement the sharper the tuning.
+Amplifying Modulator. A vacuum tube used for modulating and amplifying the oscillations set up by the sending set.
+Rectifier. 1 A vacuum tube detector.
+Three Electrode. A vacuum tube with three electrodes, namely a filament, a grid and a plate.
+Two Electrode. A vacuum tube with two electrodes, namely the filament and the plate.
+VARIOCOUPLER. A tuning device for varying the inductance of the receiving oscillation circuits.
+It consists of a fixed and a rotatable coil whose windings are not connected with each other.
+VARIOMETER. A tuning device for varying the inductance of the receiving oscillation currents.
+It consists of a fixed and a rotatable coil with the coils connected in series.
+VOLTAGE, PLATE. The voltage of the current that is used to energize the plate of a vacuum tube.
+VOLTMETER. An instrument for measuring the voltage of an electric current.
+WATT. The power spent by a current of 1 ampere in a resistance of 1 ohm.
+WAVE LENGTH. Every wave of whatever kind has a length.
+The wave length is usually taken to mean the distance between the crests of two successive waves.
+WAVE METER. An apparatus for measuring the lengths of electric waves set up in the oscillation circuits of sending and receiving sets.
+WAVES, ELECTRIC. Electromagnetic waves set up in and transmitted by and through the ether.
+Abbreviated CW Waves that are emitted without a break from the aerial.
+Discontinuous. Waves that are emitted periodically from the aerial.
+Intermediate. Waves from 600 to 2,000 meters in length.
+Long. Waves over 2,000 meters in length.
+Radio. Electric waves used in wireless telegraphy and telephony.
+Short. Waves up to 600 meters in length.
+Wireless. Electric waves used in wireless telegraphy and telephony.
+WIRE, ENAMELLED. Wire that is given a thin coat of enamel which insulates it.
+WIRE, PHOSPHOR BRONZE. A very strong wire made of an alloy of copper and containing a trace of phosphorus.
+WIRED WIRELESS. Continuous waves of high frequency that are sent over telephone wires instead of through space.
+Dont use iron wire for your aerial.
+Dont fail to insulate it well at both ends.
+Dont have it longer than 75 feet for sending out a 200 meter wave.
+Dont fail to use a lightning arrester, or better, a lightning switch, for your receiving set.
+Dont fail to use a lightning switch with your transmitting set.
+Dont forget you must have an outside ground.
+Dont fail to have the resistance of your aerial as small as possible.
+Dont fail to solder the leading in wire to the aerial.
+Dont fail to properly insulate the leading in wire where it goes through the window or wall.
+Dont let your aerial or leading in wire touch trees or other objects.
+Dont let your aerial come too close to overhead wires of any kind.
+Dont run your aerial directly under, or over, or parallel with electric light or other wires.
+Dont fail to make a good ground connection with the water pipe inside.
+Dont attempt to send until you get your license.
+Dont fail to live up to every rule and regulation.
+Dont use an input of more than 1/2 a kilowatt if you live within 5 nautical miles of a naval station.
+Dont send on more than a 200 meter wave if you have a restricted or general amateur license.
+Dont use spark gap electrodes that are too small or they will get hot.
+Dont use too long or too short a spark gap.
+The right length can be found by trying it out.
+Dont buy a motor generator set if you have commercial alternating current in your home.
+Dont overload an oscillation vacuum tube as it will greatly shorten its life.
+Use two in parallel.
+Dont operate a transmitting set without a hot wire ammeter in the aerial.
+Dont use solid wire for connecting up the parts of transmitters.
+Use stranded or braided wire.
+Dont fail to solder each connection.
+Dont use soldering fluid, use rosin.
+Dont think that all of the energy of an oscillation tube cannot be used for wave lengths of 200 meters and under.
+It can be if the transmitting set and aerial are properly designed.
+Dont run the wires of oscillation circuits too close together.
+Dont cross the wires of oscillation circuits except at right angles.
+Dont set the transformer of a transmitting set nearer than 3 feet to the condenser and tuning coil.
+Dont use a rotary gap in which the wheel runs out of true.
+Dont expect to get as good results with a crystal detector as with a vacuum tube detector.
+Dont be discouraged if you fail to hit the sensitive spot of a crystal detector the first time or several times thereafter.
+Dont use a wire larger than No 80 for the wire electrode of a crystal detector.
+Dont try to use a loud speaker with a crystal detector receiving set.
+Dont expect a loop aerial to give worthwhile results with a crystal detector.
+Dont handle crystals with your fingers as this destroys their sensitivity.
+Use tweezers or a cloth.
+Dont imbed the crystal in solder as the heat destroys its sensitivity.
+Use Woods metal, or some other alloy which melts at or near the temperature of boiling water.
+Dont forget that strong static and strong signals sometimes destroy the sensitivity of crystals.
+Dont heat the filament of a vacuum tube to greater brilliancy than is necessary to secure the sensitiveness required.
+Dont use a plate voltage that is less or more than it is rated for.
+Dont connect the filament to a lighting circuit.
+Dont use dry cells for heating the filament except in a pinch.
+Dont use a constant current to heat the filament, use a constant voltage.
+Dont use a vacuum tube in a horizontal position unless it is made to be so used.
+Dont fail to properly insulate the grid and plate leads.
+Dont fail to use alternating current for heating the filament where this is possible.
+Dont fail to use a voltmeter to find the proper temperature of the filament.
+Dont expect to get results with a loud speaker when using a single vacuum tube.
+Dont fail to protect your vacuum tubes from mechanical shocks and vibration.
+Dont fail to cut off the A battery entirely from the filament when you are through receiving.
+Dont switch on the A battery current all at once through the filament when you start to receive.
+Dont expect to get the best results with a gas content detector tube without using a potentiometer.
+Dont connect a potentiometer across the B battery or it will speedily run down.
+Dont expect to get as good results with a single coil tuner as you would with a loose coupler.
+Dont expect to get as good results with a two coil tuner as with one having a third, or tickler, coil.
+Dont think you are the only amateur who is troubled with static.
+Dont expect to eliminate interference if the amateurs around you are sending with spark sets.
+Dont lay out or assemble your set on a panel first.
+Connect it up on a board and find out if everything is right.
+Dont try to connect up your set without a wiring diagram in front of you.
+Dont fail to shield radio frequency amplifiers.
+Dont set the axes of the cores of radio frequency transformers in a line.
+Set them at right angles to each other.
+Dont use wire smaller than No 14 for connecting up the various parts.
+Dont fail to adjust the B battery after putting in a fresh vacuum tube, as its sensitivity depends largely on the voltage.
+Dont fail to properly space the parts where you use variometers.
+Dont fail to put a copper shield between the variometer and the variocoupler.
+Dont fail to keep the leads to the vacuum tube as short as possible.
+Dont throw your receiving set out of the window if it howls.
+Try placing the audio frequency transformers farther apart and the cores of them at right angles to each other.
+Dont use condensers with paper dielectrics for an amplifier receiving set or it will be noisy.
+Dont try to assemble a set if you dont know the difference between a binding post and a blue print.
+Buy a set ready to use.
+Dont expect to get Arlington time signals and the big cableless stations if your receiver is made for short wave lengths.
+Dont take your headphones apart.
+You are just as apt to spoil them as you would a watch.
+Dont expect to get results with a Bell telephone receiver.
+Dont forget that there are other operators using the ether besides yourself.
+Dont let your B battery get damp and dont let it freeze.
+Dont try to recharge your B battery unless it is constructed for the purpose.
+Dont connect a source of alternating current direct to your storage battery.
+You have to use a rectifier.
+Dont connect the positive lead of the charging circuit with the negative terminal of your storage battery.
+Dont let the electrolyte get lower than the tops of the plates of your storage battery.
+Dont fail to look after the condition of your storage battery once in a while.
+Dont buy a storage battery that gives less than 6 volts for heating the filament.
+Dont fail to keep the specific gravity of the electrolyte of your storage battery between 1.225 and 1.300 Baume.
+This you can do with a hydrometer.
+Dont fail to recharge your storage battery when the hydrometer shows that the specific gravity of the electrolyte is close to 1.225.
+Dont keep charging the battery after the hydrometer shows that the specific gravity is 1.285.
+Dont let the storage battery freeze.
+Dont let it stand for longer than a month without using unless you charge it.
+Dont monkey with the storage battery except to add a little sulphuric acid to the electrolyte from time to time.
+If anything goes wrong with it better take it to a service station and let the expert do it.
+Dont try to operate your spark coil with 110 volt direct lighting current without connecting in a rheostat.
+Dont try to operate your spark coil with 110 volt alternating lighting current without connecting in an electrolytic interrupter.
+Dont try to operate an alternating current power transformer with 110 volt direct current without connecting in an electrolytic interruptor.
+The Government wont have it thats all.
+Dont try to tune your transmitter to send out waves of given length by guesswork.
+Dont use hard fiber for panels.
+It is a very poor insulator where high frequency currents are used.
+Dont think you are the only one who doesnt know all about wireless.
+Wireless is a very complex art and there are many things that those experienced have still to learn.

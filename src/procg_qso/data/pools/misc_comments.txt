@@ -1,0 +1,9 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+CONDX FB TDY
+BAND UP ES DOWN WID QSB
+UR SIGS SOLID HR
+SUM QRN FROM STORMS
+FB SIG INTO {QTH}
+DID FB POTA OUTING LAST WK HI HI
+NICE FIST OM

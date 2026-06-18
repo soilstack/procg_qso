@@ -1,0 +1,17 @@
+# Provenance for bundled corpora.
+# Ships with the package so installers/auditors can verify every sentence
+# source is public domain. Human-readable; the runtime loader does not parse
+# this (keeps the loader dependency-free on Python 3.10, which lacks tomllib).
+
+[collins_1922]
+file            = "collins_1922.txt"
+title           = "The Radio Amateur's Hand Book"
+author          = "A. Frederick Collins"
+edition         = "1922 (Project Gutenberg EBook #6935, edition 10a)"
+source_url      = "https://www.gutenberg.org/ebooks/6935"
+public_domain   = true
+license_note    = "Public domain in the US; confirmed by Project Gutenberg."
+extracted_by    = "corpus_tools/extract_collins.py"
+sentence_count  = 816
+register         = "narrative technical prose + glossary definitions + operating don'ts"
+notes           = "Apostrophes stripped, hyphens spaced, punctuation reduced to . , ? / for CW realism."

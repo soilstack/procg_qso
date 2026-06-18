@@ -1,0 +1,16 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+OHIO
+TEXAS
+FLA
+CALIF
+PA
+NY
+TOKYO
+OSAKA
+LONDON
+BERLIN
+MADRID
+SYDNEY
+TORONTO
+SINGAPORE

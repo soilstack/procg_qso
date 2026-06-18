@@ -15,6 +15,8 @@ from dataclasses import dataclass, field
 import numpy as np
 from scipy.signal import butter, sosfilt
 
+from . import pools
+
 # ---------------------------------------------------------------- Morse table
 MORSE = {
     'A': '.-',    'B': '-...',  'C': '-.-.',  'D': '-..',   'E': '.',
@@ -173,11 +175,9 @@ def rx_filter(sig: np.ndarray, ch: Channel) -> np.ndarray:
 PREFIXES = (['W', 'K', 'N'] * 5 + ['KA', 'KB', 'KD', 'KE', 'WA', 'WB', 'AA',
              'AB', 'AC', 'VE', 'VA', 'JA', 'JE', 'JH', 'DL', 'G', 'M', 'F',
              'EA', 'I', 'VK', 'ZL', 'PY', 'OH', 'SM', 'OK', 'SP', '9V'])
-NAMES = ['JOHN', 'MIKE', 'DAVE', 'BOB', 'JIM', 'TOM', 'BILL', 'RON', 'KEN',
-         'STEVE', 'AL', 'ED', 'JOE', 'RICK', 'DAN', 'ANN', 'SUE', 'KAZU']
-QTHS = ['OHIO', 'TEXAS', 'FLA', 'CALIF', 'PA', 'NY', 'TOKYO', 'OSAKA',
-        'LONDON', 'BERLIN', 'MADRID', 'SYDNEY', 'TORONTO', 'SINGAPORE']
-RIGS = ['FT891', 'IC7300', 'K3', 'QMX', 'FLEX 8400', 'KX2', 'TS590']
+NAMES = pools.load("names")
+QTHS = pools.load("qths")
+RIGS = pools.load("rigs")
 
 def random_call(rng: random.Random) -> str:
     p = rng.choice(PREFIXES)
@@ -219,19 +219,13 @@ def contest_qso(rng: random.Random, serial: int | None = None):
     ]
 
 # ------------------------------------------ wordier ragchews (variable depth)
-ANTENNAS = ['DIPOLE UP 10M', 'EFHW', 'VERTICAL', 'HEXBEAM AT 12M', 'G5RV',
-            'OCF DIPOLE', '3 EL YAGI', 'RANDOM WIRE ES TUNER',
-            'MAG LOOP ON BALCONY', 'INV VEE']
-POWERS = ['5W', '10W', '50W', '100W', 'QRP 5W']
-WEATHERS = ['SUNNY', 'CLOUDY', 'RAINING', 'OVERCAST', 'CLR ES COLD',
-            'HOT ES HUMID', 'SNOWING', 'WINDY', 'FOGGY']
-JOBS = ['RETIRED', 'ENGINEER', 'TEACHER', 'PROGRAMMER', 'FARMER', 'STUDENT',
-        'ELECTRICIAN', 'PILOT']
-GREETS = ['GM', 'GA', 'GE']
-THANKS = ['TNX', 'TKS', 'MNI TNX']
-MISC_COMMENTS = ['CONDX FB TDY', 'BAND UP ES DOWN WID QSB', 'UR SIGS SOLID HR',
-                 'SUM QRN FROM STORMS', 'FB SIG INTO {QTH}',
-                 'DID FB POTA OUTING LAST WK HI HI', 'NICE FIST OM']
+ANTENNAS = pools.load("antennas")
+POWERS = pools.load("powers")
+WEATHERS = pools.load("weathers")
+JOBS = pools.load("jobs")
+GREETS = pools.load("greets")
+THANKS = pools.load("thanks")
+MISC_COMMENTS = pools.load("misc_comments")
 
 @dataclass
 class Persona:
@@ -253,7 +247,8 @@ def make_persona(rng: random.Random) -> Persona:
                    rng.choice(WEATHERS), rng.randint(28, 95),
                    rng.randint(22, 81), rng.randint(1, 55), rng.choice(JOBS))
 
-def wordy_ragchew(rng: random.Random, wordiness: float = 0.7):
+def wordy_ragchew(rng: random.Random, wordiness: float = 0.7, corpus=None,
+                  corpus_tail: int = 0):
     """Variable-depth ragchew built from probability-gated clause pools.
 
     wordiness in [0,1] controls optional clauses (WX, power, age, job,
@@ -261,17 +256,23 @@ def wordy_ragchew(rng: random.Random, wordiness: float = 0.7):
     a quick exchange; ~0.9 a long-winded one.
     """
     a, b = make_persona(rng), make_persona(rng)
+    if corpus is None:                       # None -> bundled default; [] -> off
+        from procg_qso.corpus import default_corpus
+        corpus = default_corpus()
     greet = rng.choice(GREETS)               # consistent time-of-day per QSO
     r_to_b, r_to_a = random_rst(rng), random_rst(rng)
     p = lambda x=1.0: rng.random() < wordiness * x
     turns = []
 
-    def over(frm, to, sidx, parts, sig=None):
+    def over(frm, to, sidx, parts, sig=None, ident=False):
         parts = [s for s in parts if s]
         sig = sig or rng.choice(['K', 'K', 'KN', 'BK'])
-        turns.append((sidx, f"{to.call} DE {frm.call} = "
-                            + " = ".join(parts)
-                            + f" = {to.call} DE {frm.call} {sig}"))
+        body = " = ".join(parts)
+        if ident:        # full calls only where it matters: establish + signoff
+            body = f"{to.call} DE {frm.call} = {body} = {to.call} DE {frm.call} {sig}"
+        else:            # mid-QSO: light BK-style handoff, no callsigns
+            body = f"{body} = {sig}"
+        turns.append((sidx, body))
 
     turns.append((0, f"CQ CQ CQ DE {a.call} {a.call} {a.call} K"))
     turns.append((1, f"{a.call} DE {b.call} {b.call} K"))
@@ -283,7 +284,7 @@ def wordy_ragchew(rng: random.Random, wordiness: float = 0.7):
         f"NAME {a.name} {a.name}",
         f"QTH {a.qth} {a.qth}",
         f"WX HR {a.wx} TEMP {a.temp}F" if p(0.6) else None,
-        "HW CPY?"])
+        "HW CPY?"], ident=True)
 
     # --- repair exchange when B's copy of A is weak
     if int(r_to_a[1]) <= 4 and p(0.9):
@@ -323,17 +324,29 @@ def wordy_ragchew(rng: random.Random, wordiness: float = 0.7):
                        rng.choice(MISC_COMMENTS).replace('{QTH}', a.qth)
                        if p(0.4) else None])
 
+    # --- optional corpus-fed rag (free-form plain-language head-copy) ---
+    if corpus and p(0.6):
+        words = rng.choice(corpus).upper().split()
+        line = ' '.join(words[:rng.randint(8, 14)])   # keep the over digestible
+        over(a, b, 0, [f"{rng.choice(['BTW', 'OM', 'SAY'])} {line}"])
+        over(b, a, 1, ['R R', rng.choice(['FB', 'INTERESTING', 'HI HI'])])
+
     # --- closings
     over(a, b, 0, [
         f"{rng.choice(THANKS)} FER FB QSO {b.name}",
         "73 ES GL",
-        rng.choice(['HPE CUL', 'CU AGN', 'BCNU'])], sig='*')
+        rng.choice(['HPE CUL', 'CU AGN', 'BCNU'])], sig='*', ident=True)
     turns.append((1, f"{a.call} DE {b.call} = R 73 {a.name} ES TNX QSO = "
                      f"{rng.choice(['BCNU', 'CUL', 'GL ES GD DX'])} = "
                      f"{a.call} DE {b.call} *"))
     if p(0.8):                                  # dit-dit signoff
         turns.append((0, "E E"))
         turns.append((1, "E E"))
+
+    # --- appended corpus run: plain English copy practice after the QSO ---
+    if corpus and corpus_tail > 0:
+        for _ in range(corpus_tail):
+            turns.append((0, rng.choice(corpus).upper()))
     return turns
 
 def qrm_messages(call: str):

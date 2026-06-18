@@ -1,0 +1,9 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+FT891
+IC7300
+K3
+QMX
+FLEX 8400
+KX2
+TS590

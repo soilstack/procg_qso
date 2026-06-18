@@ -1,0 +1,5 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+TNX
+TKS
+MNI TNX

@@ -1,0 +1,12 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+DIPOLE UP 10M
+EFHW
+VERTICAL
+HEXBEAM AT 12M
+G5RV
+OCF DIPOLE
+3 EL YAGI
+RANDOM WIRE ES TUNER
+MAG LOOP ON BALCONY
+INV VEE

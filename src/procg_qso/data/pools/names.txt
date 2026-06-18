@@ -1,0 +1,20 @@
+# one entry per line. blank lines and #-comments are ignored.
+# add as many as you like to increase variety.
+JOHN
+MIKE
+DAVE
+BOB
+JIM
+TOM
+BILL
+RON
+KEN
+STEVE
+AL
+ED
+JOE
+RICK
+DAN
+ANN
+SUE
+KAZU
