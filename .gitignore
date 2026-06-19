@@ -3,6 +3,6 @@ __pycache__/
 dist/
 build/
 .pytest_cache/
-*.wav
-*.mp3
 procg_qso_out/
+.ipynb_checkpoints/
+*.wav
