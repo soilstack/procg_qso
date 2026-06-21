@@ -25,7 +25,7 @@ Aarhus, Denmark
 Bergen, Norway
 Galway, Ireland
 Bilbao, Spain
-Aix-en-Provence, France
+Aix en Provence, France
 Trier, Germany
 Maastricht, Netherlands
 Lucerne, Switzerland
@@ -36,7 +36,7 @@ Parma, Italy
 Tampere, Finland
 Akureyri, Iceland
 Uppsala, Sweden
-Esch-sur-Alzette, Luxembourg
+Esch sur Alzette, Luxembourg
 Graz, Austria
 Leuven, Belgium
 Stavanger, Norway
@@ -44,7 +44,7 @@ Brno, Czech Republic
 Wroclaw, Poland
 Kosice, Slovakia
 Debrecen, Hungary
-Cluj-Napoca, Romania
+Cluj Napoca, Romania
 Plovdiv, Bulgaria
 Novi Sad, Serbia
 Rijeka, Croatia
@@ -96,7 +96,7 @@ Kaduna, Nigeria
 Bukavu, Democratic Republic of the Congo
 Bahir Dar, Ethiopia
 Beira, Mozambique
-Saint-Louis, Senegal
+Saint Louis, Senegal
 Sokode, Togo
 Bafoussam, Cameroon
 Knysna, South Africa
