@@ -1,7 +1,43 @@
 # one entry per line. blank lines and #-comments are ignored.
-# add as many as you like to increase variety.
+# rendered as 'PWR <entry>' and as the {PWR} comment token.
+# duplicate a line to weight it: the loader keeps dupes, biasing random choice.
+1W
+2W
+3W
 5W
-10W
-50W
-100W
+8W
 QRP 5W
+QRP 2W
+QRP 10W
+QRPP 500MW
+QRPP 250MW
+100MW
+500MW
+10W
+15W
+20W
+25W
+35W
+50W
+60W
+75W
+90W
+100W
+ABT 100W
+BAREFOOT 100W
+100 WATTS
+5 WATTS
+ABT 5W
+150W
+200W
+300W
+400W
+500W
+600W
+800W
+1KW
+1.5KW
+QRO 1KW
+QRO 500W
+FULL GALLON
+LEGAL LIMIT

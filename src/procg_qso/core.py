@@ -9,6 +9,7 @@ Requires: numpy, scipy. Output: 16-bit WAV + ground-truth transcript.
 """
 
 import random
+import re
 import wave
 from dataclasses import dataclass, field
 
@@ -247,6 +248,25 @@ def make_persona(rng: random.Random) -> Persona:
                    rng.choice(WEATHERS), rng.randint(28, 95),
                    rng.randint(22, 81), rng.randint(1, 55), rng.choice(JOBS))
 
+# Tokens usable in misc_comments.txt, resolved against the *receiving* station.
+# Each maps to a Persona field; the pool-backed ones (NAME/QTH/RIG/ANT/PWR/WX/JOB)
+# have a matching data/pools/*.txt. CALL is generated, not pooled.
+_COMMENT_TOKEN = re.compile(r'\{([A-Z][A-Z_]*)\}')
+
+def fill_tokens(text: str, who: Persona) -> str:
+    """Substitute {TOKEN} placeholders in a comment with persona ``who``'s fields.
+
+    Recognized: QTH NAME RIG ANT PWR WX JOB CALL. Unknown tokens are left
+    verbatim (so a typo like {NMAE} is audible/visible rather than silently
+    dropped — change ``m.group(0)`` to ``''`` below to drop them instead).
+    """
+    values = {
+        'QTH': who.qth, 'NAME': who.name, 'RIG': who.rig, 'ANT': who.ant,
+        'PWR': who.pwr, 'WX': who.wx, 'JOB': who.job, 'CALL': who.call,
+    }
+    return _COMMENT_TOKEN.sub(
+        lambda m: str(values.get(m.group(1), m.group(0))), text)
+
 def wordy_ragchew(rng: random.Random, wordiness: float = 0.7, corpus=None,
                   corpus_tail: int = 0):
     """Variable-depth ragchew built from probability-gated clause pools.
@@ -316,12 +336,12 @@ def wordy_ragchew(rng: random.Random, wordiness: float = 0.7, corpus=None,
 
     # --- optional small-talk over
     if p(0.5):
-        cm = rng.choice(MISC_COMMENTS).replace('{QTH}', b.qth)
+        cm = fill_tokens(rng.choice(MISC_COMMENTS), b)
         over(a, b, 0, [cm,
                        f"WX GETTING {rng.choice(['COLD', 'WARM'])} HR"
                        if p(0.4) else None])
         over(b, a, 1, [f"R R HI HI" if 'HI HI' in cm else "R R FB",
-                       rng.choice(MISC_COMMENTS).replace('{QTH}', a.qth)
+                       fill_tokens(rng.choice(MISC_COMMENTS), a)
                        if p(0.4) else None])
 
     # --- optional corpus-fed rag (free-form plain-language head-copy) ---
@@ -413,8 +433,31 @@ def write_wav(path: str, sig: np.ndarray, fs: int):
         w.writeframes((sig * 32767).astype(np.int16).tobytes())
 
 def write_mp3(path: str, sig: np.ndarray, fs: int, kbps: int = 64):
-    """Encode via lame (or ffmpeg). 64 kbps mono is transparent for CW.
-    Use write_wav instead for ML training data / sample-accurate timing."""
+    """Encode 64 kbps mono MP3 (transparent for CW).
+
+    Prefers the pure-Python ``lameenc`` (no system binary, pip-installable);
+    falls back to the ``lame`` or ``ffmpeg`` CLI if present. Use write_wav
+    instead for ML training data / sample-accurate timing.
+    """
+    pcm = (sig * 32767).astype(np.int16)
+
+    # Primary path: in-process libmp3lame via `lameenc` (pip install lameenc).
+    try:
+        import lameenc
+    except ImportError:
+        lameenc = None
+    if lameenc is not None:
+        enc = lameenc.Encoder()
+        enc.set_bit_rate(kbps)
+        enc.set_in_sample_rate(int(fs))
+        enc.set_channels(1)
+        enc.set_quality(2)            # 2 = high, 7 = fast
+        data = enc.encode(pcm.tobytes()) + enc.flush()
+        with open(path, 'wb') as f:
+            f.write(data)
+        return
+
+    # Fallback: shell out to a lame/ffmpeg binary if one is on PATH.
     import shutil, subprocess, tempfile, os
     with tempfile.NamedTemporaryFile(suffix='.wav', delete=False) as tmp:
         write_wav(tmp.name, sig, fs)
@@ -426,7 +469,10 @@ def write_mp3(path: str, sig: np.ndarray, fs: int, kbps: int = 64):
             cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', tmp.name,
                    '-ac', '1', '-b:a', f'{kbps}k', path]
         else:
-            raise RuntimeError("no MP3 encoder found (install lame or ffmpeg)")
+            raise RuntimeError(
+                "no MP3 encoder found. Install the pure-Python encoder with "
+                "`pip install lameenc` (no system binary required), or install "
+                "the lame/ffmpeg CLI. Or use write_wav() for WAV output.")
         subprocess.run(cmd, check=True)
     finally:
         os.unlink(tmp.name)

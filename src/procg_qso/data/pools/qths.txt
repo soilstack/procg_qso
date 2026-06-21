@@ -1,16 +1,122 @@
 # one entry per line. blank lines and #-comments are ignored.
 # add as many as you like to increase variety.
-OHIO
-TEXAS
-FLA
-CALIF
-PA
-NY
-TOKYO
-OSAKA
-LONDON
-BERLIN
-MADRID
-SYDNEY
-TORONTO
-SINGAPORE
+MMarfa, TX
+Bisbee, AZ
+Astoria, OR
+Paducah, KY
+Bemidji, MN
+Natchez, MS
+Sandpoint, ID
+Hannibal, MO
+Cody, WY
+Lubec, ME
+Livingston, MT
+Yellow Springs, OH
+Truth or Consequences, NM
+Sitka, AK
+Brattleboro, VT
+Sheboygan, WI
+Walla Walla, WA
+Cumberland, MD
+Galena, IL
+Tarpon Springs, FL
+Ghent, Belgium
+Aarhus, Denmark
+Bergen, Norway
+Galway, Ireland
+Bilbao, Spain
+Aix-en-Provence, France
+Trier, Germany
+Maastricht, Netherlands
+Lucerne, Switzerland
+Inverness, United Kingdom
+Coimbra, Portugal
+Innsbruck, Austria
+Parma, Italy
+Tampere, Finland
+Akureyri, Iceland
+Uppsala, Sweden
+Esch-sur-Alzette, Luxembourg
+Graz, Austria
+Leuven, Belgium
+Stavanger, Norway
+Brno, Czech Republic
+Wroclaw, Poland
+Kosice, Slovakia
+Debrecen, Hungary
+Cluj-Napoca, Romania
+Plovdiv, Bulgaria
+Novi Sad, Serbia
+Rijeka, Croatia
+Maribor, Slovenia
+Lviv, Ukraine
+Kaunas, Lithuania
+Tartu, Estonia
+Daugavpils, Latvia
+Brest, Belarus
+Timisoara, Romania
+Ostrava, Czech Republic
+Szeged, Hungary
+Banja Luka, Bosnia and Herzegovina
+Bitola, North Macedonia
+Gdansk, Poland
+Merida, Mexico
+Oaxaca, Mexico
+Cuenca, Ecuador
+Arequipa, Peru
+Valparaiso, Chile
+Cordoba, Argentina
+Florianopolis, Brazil
+Bucaramanga, Colombia
+Antigua, Guatemala
+Granada, Nicaragua
+David, Panama
+Sucre, Bolivia
+Salta, Argentina
+Curitiba, Brazil
+Trujillo, Peru
+Maracaibo, Venezuela
+Punta del Este, Uruguay
+San Pedro Sula, Honduras
+Concepcion, Chile
+Puebla, Mexico
+Stellenbosch, South Africa
+Mombasa, Kenya
+Kumasi, Ghana
+Oran, Algeria
+Sousse, Tunisia
+Essaouira, Morocco
+Mwanza, Tanzania
+Jinja, Uganda
+Bulawayo, Zimbabwe
+Livingstone, Zambia
+Swakopmund, Namibia
+Maun, Botswana
+Kaduna, Nigeria
+Bukavu, Democratic Republic of the Congo
+Bahir Dar, Ethiopia
+Beira, Mozambique
+Saint-Louis, Senegal
+Sokode, Togo
+Bafoussam, Cameroon
+Knysna, South Africa
+Kanazawa, Japan
+Takayama, Japan
+Gyeongju, South Korea
+Hualien, Taiwan
+Luang Prabang, Laos
+Battambang, Cambodia
+Hue, Vietnam
+Vigan, Philippines
+Yogyakarta, Indonesia
+Malacca, Malaysia
+Kandy, Sri Lanka
+Pokhara, Nepal
+Thimphu, Bhutan
+Udaipur, India
+Pondicherry, India
+Multan, Pakistan
+Samarkand, Uzbekistan
+Osh, Kyrgyzstan
+Mandalay, Myanmar
+Kashgar, China

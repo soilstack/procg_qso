@@ -1,5 +1,23 @@
 # one entry per line. blank lines and #-comments are ignored.
-# add as many as you like to increase variety.
+# rendered before 'FER CALL' / 'FER RPRT' / 'FER FB QSO <name>'.
 TNX
 TKS
 MNI TNX
+MNI TKS
+VY TNX
+VY TKS
+TNX AGN
+TKS AGN
+MNI TNX AGN
+VY MNI TNX
+VY MNI TKS
+TNX VY MUCH
+TKS VY MUCH
+TNX SO MUCH
+TNX A LOT
+MANY TNX
+MANY TKS
+BIG TNX
+MUCH TNX
+TU
+TU VY MUCH
